@@ -28,6 +28,8 @@
  * POSSIBILITY OF SUCH DAMAGE.
  */
 
+//SDS means simple dynamic string
+
 #ifndef __SDS_H
 #define __SDS_H
 
